@@ -1,4 +1,4 @@
-# Data Analysis
+# Data Analysist
 
 ### Education
 English, BA
